@@ -22,6 +22,7 @@ Example feature branches:
 - `feature/radio`
 - `feature/power-management`
 
+## Note
 Programmer won't directly push their work to the main branch.
 They will first create a feature branch for their work and then open a Pull Request to merge their changes into the develop branch. 
 Once the changes are stable and approved, they will be merged into the main branch.
